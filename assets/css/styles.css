@@ -163,7 +163,7 @@ button{
 .nav__logo{
   display: flex;
   align-items: center;
-  column-gap: .5rem;
+  column-gap: .10rem;
   font-weight: var(--font-medium);
 }
 
